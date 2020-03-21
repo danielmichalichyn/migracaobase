@@ -1,0 +1,2 @@
+System.IndexOutOfRangeException: O índice estava fora dos limites da matriz.
+   em MigracaoBase.Program.Main(String[] args) na C:\Users\daniel.michalichyn\Documents\Projetos e Desenvolvimentos de Softwares\MigracaoBase\Main\MigracaoBase\Program.cs:linha 16
